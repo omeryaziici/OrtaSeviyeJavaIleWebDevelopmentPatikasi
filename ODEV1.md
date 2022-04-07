@@ -1,4 +1,4 @@
-# OrtaSeviyeJavaIleWebDevelopmentPatikasi
+# Orta Seviye Java ile Web Development Patikasi
 Orta Seviye Java ile Web Development Patikası -> SQL -> Ödev 1
 # ÖDEV 1
 Merhabalar,
