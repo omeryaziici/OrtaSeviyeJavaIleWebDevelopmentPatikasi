@@ -13,6 +13,6 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 Kolay Gelsin.
 
 # CEVAPLAR
-1. SELECT city.city, country.country INNER FROM city JOIN country ON city.country_id = country.country_id
+1. SELECT city.city, country.country FROM city INNER JOIN country ON city.country_id = country.country_id
 2. SELECT first_name, last_name FROM customer INNER JOIN payment ON customer.customer_id = payment.customer_id
 3. SELECT first_name,last_name FROM customer JOIN rental ON customer.customer_id = rental.rental_id
